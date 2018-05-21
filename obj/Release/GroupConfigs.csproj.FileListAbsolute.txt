@@ -1,0 +1,15 @@
+C:\Users\Taylor\Source\Repos\TestPlugin\obj\Release\GroupConfigs.csprojResolveAssemblyReference.cache
+C:\Users\Taylor\Source\Repos\TestPlugin\obj\Release\GroupConfigs.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\GroupConfigs.dll
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\GroupConfigs.pdb
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\BCrypt.Net.dll
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\MySql.Data.dll
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\Newtonsoft.Json.dll
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\OTAPI.dll
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\TerrariaServer.exe
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\TShockAPI.dll
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\HttpServer.dll
+C:\Users\Taylor\Source\Repos\TestPlugin\bin\Release\MySql.Data.xml
+C:\Users\Taylor\Source\Repos\TestPlugin\obj\Release\GroupConfigs.dll
+C:\Users\Taylor\Source\Repos\TestPlugin\obj\Release\GroupConfigs.pdb
